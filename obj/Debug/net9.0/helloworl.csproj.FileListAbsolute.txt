@@ -1,0 +1,14 @@
+/home/theranxe/Bureau/ApprendreC#/helloworl/bin/Debug/net9.0/helloworl
+/home/theranxe/Bureau/ApprendreC#/helloworl/bin/Debug/net9.0/helloworl.deps.json
+/home/theranxe/Bureau/ApprendreC#/helloworl/bin/Debug/net9.0/helloworl.runtimeconfig.json
+/home/theranxe/Bureau/ApprendreC#/helloworl/bin/Debug/net9.0/helloworl.dll
+/home/theranxe/Bureau/ApprendreC#/helloworl/bin/Debug/net9.0/helloworl.pdb
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.GeneratedMSBuildEditorConfig.editorconfig
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.AssemblyInfoInputs.cache
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.AssemblyInfo.cs
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.csproj.CoreCompileInputs.cache
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.dll
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/refint/helloworl.dll
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.pdb
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/helloworl.genruntimeconfig.cache
+/home/theranxe/Bureau/ApprendreC#/helloworl/obj/Debug/net9.0/ref/helloworl.dll
